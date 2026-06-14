@@ -7,7 +7,7 @@ A full stack application that lets users track their internship progress built w
 - Add/Edit/Delete Internships 
 - Status tracking
 - Deadline reminders
-- Resuem version tracking 
+- Resume version tracking 
 - Search and filtering 
 - Analytics dashboard
 - Email Integration 
